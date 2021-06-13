@@ -76,7 +76,7 @@ class Make extends React.Component {
                         </tr>
                         <tr>
                             <td>
-                            Picture url:
+                            Img Url:
                             </td>
                             <td>
                             <input onChange={(e) => this.setState({Pic: e.target.value})} className="tableInput"></input>

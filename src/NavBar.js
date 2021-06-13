@@ -15,7 +15,7 @@ function NavBar() {
     <div className="NavBar">
       
       <a href="./"> <h1 className="left center">My Card Collection</h1></a>
-      <button onClick={make} className="right createButton">Create a New Card</button>
+      <button onClick={make} className="right createButton">Create</button>
 
     </div>
     );

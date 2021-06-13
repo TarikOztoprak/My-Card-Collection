@@ -4,14 +4,14 @@
   color: white;
 }
 .Site{
-  
+ 
   color: #444444;
 }
 
 .Create{
   background-color: #444444;
   min-height: 90vh;
-  min-width: 98vw;
+  width: 98.7vw;
 }
 .center{
   text-align: center;
@@ -101,6 +101,7 @@ hr{
   height: 10vh;
   width: 20vw;
   line-height: 10vh;
+  font-size: 2vw;
 }
 
 a{
@@ -109,13 +110,15 @@ a{
 
 .createTable{
   margin-top: 50px;
-  line-height: 7vh;
+  line-height: 5vh;
   font-size: 5vh;
+  width: 50vw;
 }
 
 .tableInput{
-  line-height: 7vh;
+  line-height: 5vh;
   font-size: 5vh;
+  width: 50vw;
 }
 
 .footer
